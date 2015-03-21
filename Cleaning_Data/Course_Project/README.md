@@ -5,7 +5,7 @@ course.
 
 ##Files
 
-'Analysis_Script.R': This file contains the script that executes the analysis 
+'run_analysis.R': This file contains the script that executes the analysis 
 described in steps 1-5 of this assignment.
 
 'CodeBook.md': This file describes the variables, data, and tranformations utilized
